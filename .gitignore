@@ -59,3 +59,6 @@ typings/
 
 # Mock database
 src/api/db.json
+
+# Bundled files
+dist
